@@ -1,0 +1,16 @@
+body{background-image:url('texture.jpg'); background-size:cover; color:white; text-align:center;
+font-family:"Palatino Linotype",  Palatino, serif;}
+
+a:link{color:0CA2E8; text-decoration:none;}
+
+a:visited{color:0CA2E8; text-decoration:none;}
+
+a:hover{color:0CA2E8; text-decoration:underline;}
+
+img{width:auto; height:200px; padding:10px; display:block; margin-left:auto; margin-right:auto;}
+
+h1{color:#031638;}
+
+.content {text-align:justify; background:#07080D; color:white; opacity:0.85;
+margin-left:25%; margin-right:25%; 
+padding-left:20px; padding-right:20px; padding-top:5px; padding-bottom:10px;}
